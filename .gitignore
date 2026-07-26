@@ -6,3 +6,4 @@ raw_data/
 *.log
 .DS_Store
 .claude/settings.local.json
+orchestration/config/
